@@ -1,0 +1,5 @@
+---
+title: "Market Reactions as Macroeconomic Barometer: Quantifying the TCJA's Effect on GDP and Wages"
+excerpt: '**Abstract:** The Tax Cuts and Jobs Act (TCJA) is one of the most significant US tax reforms in 40 years. However, we know little about the TCJA’s macroeconomic effects, presumably due to the difficulty in distinguishing the law’s effects from other factors that affect the macroeconomy. In this paper, I create a new methodology that allows a researcher to use firms’ market reactions to identify the effects of a macroeconomic shock on the broader economy. I apply this method to the TCJA to identify its effects on GDP and wages. I find that the TCJA increased GDP and total wages paid to employees by 2.2% and 3.4%, respectively. I find that the total wage increase was driven by a 1.7% increase in employment and a 1.3% increase in annual salaries. In other words, I find the TCJA created 2 million jobs and increased average annual salaries by $520.'
+paperurl: 'https://github.com/KAccProf/KAccProf.github.io/blob/af3bb4da71663ee48ff47b2734484568b09b83ee/files/JMP%20120423.pdf'
+---
