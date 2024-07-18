@@ -3,6 +3,6 @@ title: "Intro to Financial Accounting"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Utah"
-date: Fall 2024
 ---
+Fall 2024
 Teaching Ratings: TBD
