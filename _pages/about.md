@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in using studying the effects of tax and financial accounting on workers and the broader macroeconomy. I am currently a visiting assistant professor at the University of Utah, teaching financial accounting to undergraduate students. 
+I am interested in using studying the effects of accounting on workers and the broader macroeconomy. I am currently a visiting assistant professor at the University of Utah, teaching financial accounting to undergraduate students. 
