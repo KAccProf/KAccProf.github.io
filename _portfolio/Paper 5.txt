@@ -4,4 +4,4 @@ excerpt: '**Coauthors:** Beth Blankespoor and Suresh Nallareddy <br/>**Abstract:
 paperurl: 'https://kaccprof.github.io/files/BNS 042924.pdf'
 ---
 <a href="https://kaccprof.github.io/files/BNS 042924.pdf">Download Paper</a>
-<a href="https://kaccprof.github.io/files/NYU PPT.pdf">Presentation</a>
+<a href="https://kaccprof.github.io/files/NYU PPT.pptx">Presentation</a>
