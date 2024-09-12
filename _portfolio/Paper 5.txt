@@ -2,6 +2,7 @@
 title: "Do Accountants Increase Economic Activity?"
 excerpt: '**Coauthors:** Beth Blankespoor and Suresh Nallareddy <br/>**Abstract:** We investigate whether and how accountants affect economic activity using data from over 1.1 million establishments spanning 2001 to 2022. Employing Bartik’s (1991) method to tackle endogeneity, we find counties with increased accounting employment have higher Gross Domestic Product (GDP), employment, business activity, and wages. These findings are related to increased establishment entry and job creation. Accountants incrementally contribute to economic growth compared to total employment or business employment. Our findings underscore the vital role of accountants in shaping economic well-being. Additionally, we document several stylized facts about accounting labor markets, including rising accountant employment alongside declining wages.'
 paperurl: 'https://kaccprof.github.io/files/BNS 042924.pdf'
+slidesurl: 'https://kaccprof.github.io/files/NYU PPT.pptx'
 ---
 <a href="https://kaccprof.github.io/files/BNS 042924.pdf">Download Paper</a>
 <a href="https://kaccprof.github.io/files/NYU PPT.pptx">Presentation</a>
